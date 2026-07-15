@@ -38,9 +38,7 @@ export default function Hero() {
           </h1>
           <p style={{ color: 'var(--muted)', fontSize: 15, lineHeight: 1.7, maxWidth: 520, margin: '0 0 26px' }}>
             Herramienta comunitaria de código abierto para dimensionar, visualizar y fabricar
-            turbinas eólicas adaptadas al recurso real de Palomino — desarrollada dentro del
-            Trabajo de Grado de <strong>Daniel Felipe Vargas Pulido</strong>, Diseño Industrial
-            e Ingeniería Electrónica, Universidad Nacional de Colombia.
+            turbinas eólicas adaptadas al recurso real de Palomino.
           </p>
           <div style={{ display: 'flex', gap: 12 }}>
             <a href="#disenador" className="btn-primary" style={{ textDecoration: 'none' }}>Abrir el diseñador</a>
