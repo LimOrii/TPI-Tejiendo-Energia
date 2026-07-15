@@ -17,8 +17,7 @@ export default function Gallery() {
             <div>
               <h3 className="font-display" style={{ fontSize: 22, color: 'var(--primary-dark)', margin: '0 0 8px' }}>Palomino, La Guajira</h3>
               <p style={{ fontSize: 13, color: 'var(--muted)', lineHeight: 1.7, maxWidth: 560 }}>
-                Espacio para fotos reales del proyecto: el sitio de instalación, el proceso de
-                construcción comunitaria y los prototipos impresos.  <span className="mono">public/images/</span>.
+                 <span className="mono">public/images/</span>.
               </p>
             </div>
             <MolaBird size={70} color="var(--secondary)" />
